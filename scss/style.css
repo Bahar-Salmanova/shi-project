@@ -1,0 +1,144 @@
+.home-shi {
+  background-color: black;
+}
+
+.home-shi .image-shi img {
+  position: relative;
+  width: 640px;
+  height: 800px;
+}
+
+.home-shi .logo {
+  position: absolute;
+  width: 92.11px;
+  height: 43.2px;
+  left: 138.2px;
+  top: 30.3px;
+}
+
+.home-shi .nav-shi .navbar .navbar-collapse .ul-shi {
+  padding-left: 120px;
+}
+
+.home-shi .nav-shi .navbar .navbar-collapse .ul-shi a {
+  padding-right: 30px;
+  color: white;
+  font-size: 14px;
+}
+
+.home-shi .nav-shi .navbar .navbar-collapse .ul-shi .active {
+  border-bottom: 1px solid #b3a9a7;
+}
+
+.home-shi p {
+  position: absolute;
+  top: 220px;
+  left: 450px;
+}
+
+.home-shi p a {
+  font-size: 400px;
+  text-shadow: 1px 1px white;
+  color: black;
+  font-weight: 800;
+  font-family: Raleway;
+  text-decoration: none;
+}
+
+.foot {
+  background-color: black;
+  padding-top: 71px;
+  padding-left: 122px;
+  padding-bottom: 46px;
+}
+
+.foot small {
+  padding-left: 450px;
+  width: 218px;
+  height: 36px;
+  color: #808080;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 18px;
+  text-align: center;
+}
+
+.foot small a {
+  text-decoration: none;
+  color: gray;
+  margin-left: 470px;
+}
+
+.about-shi-header {
+  background-color: black;
+  padding-top: 30px;
+}
+
+.about-shi-header .about-shi-first-row .about-shi-nav .about-ul-shi li {
+  padding-left: 40px;
+}
+
+.about-shi-header .about-shi-first-row .about-shi-nav .about-ul-shi li a {
+  padding-right: 30px;
+  color: white;
+  font-size: 14px;
+}
+
+#breadcrumb-about {
+  background-color: black;
+}
+
+#breadcrumb-about .bread-about-row .col9 small {
+  color: white;
+}
+
+#breadcrumb-about .bread-about-row .col9 p {
+  width: 1003px;
+  height: 167.09px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 150px;
+  line-height: 150px;
+  text-shadow: 1px 1px white;
+  color: black;
+}
+
+#breadcrumb-about .bread-about-row .col3 img {
+  margin-top: 149px;
+  margin-left: 54px;
+  border: 10px solid black;
+  position: absolute;
+  top: -6px;
+  opacity: 0.5;
+  z-index: 20;
+}
+
+#about-girl {
+  background-color: black;
+}
+
+#about-girl p {
+  color: #fffdf9;
+  font-size: 14px;
+  line-height: 24px;
+  font-family: Raleway;
+  font-weight: 500;
+  position: absolute;
+  z-index: 100;
+  top: 32px;
+  width: 700px;
+}
+
+#about-girl img {
+  width: 653px;
+  height: 401px;
+  margin-top: 100px;
+  z-index: 0;
+  background: rgba(0, 0, 0, 0.6);
+  position: relative;
+  opacity: 0.6;
+}
+/*# sourceMappingURL=style.css.map */
