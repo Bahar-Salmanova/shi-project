@@ -1,5 +1,7 @@
 //home//
-
+body{
+    background-color: black;
+}
 .home-shi{
     background-color: black;
 .image-shi{
@@ -83,9 +85,7 @@ p{position: absolute;
     background-color: black;
     padding-top: 30px;
     .about-shi-first-row{
-        .about-shi-logo{
-
-        }
+       
         .about-shi-nav{
             .about-ul-shi{
                 li{padding-left: 40px;
@@ -161,3 +161,241 @@ p{position: absolute;
 }
     }
 //about//
+
+//work//
+#breadcrumb-work{
+    background-color: black;
+.bread-work-row{
+    small{
+        color: white;
+
+    }
+    p{margin-bottom: 85px;
+        width: 1003px;
+        height: 167.09px;
+        font-family: Raleway;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 150px;
+        line-height: 150px;
+        text-shadow: 1px 1px white;
+        color: black;
+    }
+}
+}
+#intelligent{
+    background-color: black;
+.row-intelligent{
+    padding-bottom: 120px;
+    img{
+        width: 492px;
+        height: 250px;
+        opacity: 0.7;
+        
+}
+    }
+    h5{color: #FFFFFF;
+        width: 110px;
+        height: 22px;
+        font-family: Raleway;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 22px;
+        line-height: 22px;}
+    p{margin-left: 16px;
+        position: absolute;
+        width: 407px;
+        height: 96px;
+        left: 0px;
+        top: 42px;
+        font-family: Raleway;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 24px;
+         color: #808080;}
+    button{
+        width: 406.5px;
+        height: 36px;
+        background: #FFFFFF;
+        border: 1px solid #FFFFFF;
+        box-sizing: border-box;
+        margin-top: 158px;
+        font-family: Raleway;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 12px;
+        line-height: 12px;
+        text-align: center;
+        text-transform: uppercase;
+        color: #000000;}
+}
+
+
+#animation{
+    background-color: black;
+
+.row-animation{
+    h5{width: 108px;
+        height: 22px;
+        font-family: Raleway;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 22px;
+        line-height: 22px;
+        color: #FFFFFF;
+        margin-top: 125px;
+    }
+    img{width: 748px;
+        height: 250px;
+        background: rgba(0, 0, 0, 0.6);
+        opacity: 0.5;
+    }
+}
+}
+#illustration{
+    background-color: black;
+.row-illustration{
+    padding-top: 120px;
+    h5{
+        width: 115px;
+        height: 22px;
+        font-family: Raleway;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 22px;
+        line-height: 22px;
+        text-align: right;
+        color: #FFFFFF; 
+        margin-top: 125px;
+       
+   }
+    img{
+        width: 748px;
+        height: 250px;
+        opacity: 0.5;
+    }
+
+}
+}
+#doodle{
+    background-color: black;
+.row-doodle{
+    padding-top: 120px;
+    h5{width: 108px;
+        height: 22px;
+        font-family: Raleway;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 22px;
+        line-height: 22px;
+        color: #FFFFFF;
+        margin-top: 125px;}
+    img{width: 748px;
+        height: 250px;
+        background: rgba(0, 0, 0, 0.6);
+        opacity: 0.5;}
+}
+}//work-intelligent//
+#breadcrumb-work-intelligent{
+    background-color: black;
+.bread-work-intelligent{
+    small{color: white;
+        
+
+    }
+    p{ width: 1003px;
+        height: 167.09px;
+        font-family: Raleway;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 150px;
+        line-height: 150px;
+        text-shadow: 1px 1px white;
+        color: black;
+    }
+}
+}
+#addcart{
+    background-color: black;
+    .row-addcart{
+        display: flex;
+    text-align: center;
+    padding-top: 112px;
+        .add-cart-image{
+            img{width: 301px;
+                height: 205px;
+            position: relative;}
+            h5{width: 24px;
+                height: 18px;
+                font-family: Raleway;
+                font-style: normal;
+                font-weight: bold;
+                font-size: 18px;
+                line-height: 18px;
+               
+                text-transform: uppercase;
+                color: #FFFFFF;
+            }
+            p{  width: 202px;
+                height: 18px;
+                font-family: Raleway;
+                font-style: normal;
+                font-weight: bold;
+                font-size: 18px;
+                line-height: 18px;
+               
+                color: #FFFFFF;
+            }
+            small{
+                position: absolute;
+                top: 91%;
+                left: 18%;
+                color: #808080;
+
+            }
+            
+        }.add-cart-image :hover  .hover-image{
+
+           display: block;
+        }
+        
+        
+        .active{
+                text-decoration-line: underline;
+     }
+
+    }
+    .hover-image{
+        padding-top: 56px;
+        left: 16%;
+        button{
+            width: 151px;
+            height: 36px;
+            background: #FFFFFF;
+            border: 1px solid #FFFFFF;
+            box-sizing: border-box;
+        }
+        .sosial{
+            padding-top: 25px;
+            .share{
+                margin-right: 36px;
+                margin-left: 4px;
+                i{color: white; }
+                a{width: 33px;
+                    height: 18px;
+                    color: white;
+
+                }
+            }
+            .like{
+                i{color: white;}
+                a{
+                    width: 33px;
+                    height: 18px;
+                    color: white;
+                }
+            }
+        }
+    }
+}
